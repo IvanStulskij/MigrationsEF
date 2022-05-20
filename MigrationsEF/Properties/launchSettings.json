@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MigrationsEF": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
